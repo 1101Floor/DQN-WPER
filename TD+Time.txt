@@ -1,0 +1,6 @@
+p1=TD*1+Time*0
+p2=TD*0.8+Time*0.2
+p3=TD*0.9+Time*0.1
+p4=TD*0.75+Time*0.15
+p5=TD*0.6+Time*0.2+Reward*0.2
+p6=TD*0.8+Time*0.1+Reward*0.1
